@@ -1,8 +1,8 @@
 .lila{
-    background-color: lightsalmon;
+    background-color: salmon;
 }
 body{
-    background: lightgoldenrodyellow;
+   
     color: black;
     font-weight: bold;
     margin: 0;
@@ -11,7 +11,7 @@ body{
 .img-fluid{float: left;
 }
 h1{
-    background-color: lightcoral; font-size: 200%;
+    background-color: lightsalmon; font-size: 200%;
 
 }
 h2{
