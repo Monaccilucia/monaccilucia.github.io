@@ -1,5 +1,5 @@
 .lila{
-    background-color: salmon;
+    background-color: lightslategray;
 }
 body{
    
@@ -11,7 +11,7 @@ body{
 .img-fluid{float: left;
 }
 h1{
-    background-color: lightsalmon; font-size: 200%;
+    background-color: lightslategray; font-size: 200%;
 
 }
 h2{
