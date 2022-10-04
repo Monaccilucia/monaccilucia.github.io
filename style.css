@@ -22,3 +22,9 @@ h3{
 }
 p {  color: grey; font-size: 100%;
 }
+.circular--square {
+    border-radius: 80%;
+}
+
+
+
