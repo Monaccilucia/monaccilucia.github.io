@@ -25,6 +25,11 @@ p {  color: grey; font-size: 100%;
 .circular--square {
     border-radius: 80%;
 }
-
+.icono {
+    font-size: 80px;
+}
+.letra {
+    color: lightslategray ; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 
