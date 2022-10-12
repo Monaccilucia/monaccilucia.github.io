@@ -11,11 +11,11 @@ body{
 .img-fluid{float: left;
 }
 h1{
-    background-color: lightslategray; font-size: 200%;
+    background-color: lightslategray; font-size: 200%; font-family: Arial, Helvetica, sans-serif;
 
 }
 h2{
-    color: black; font-size: 130%;
+    color: black; font-size: 130%; font-family:Arial, Helvetica, sans-serif ;
 }
 h3{
       color: black; font-size: 100%;
@@ -30,6 +30,12 @@ p {  color: grey; font-size: 100%;
 }
 .letra {
     color: lightslategray ; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titu {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subtitu {
+    color: #28784c; font-family: Arial, Helvetica, sans-serif; font-size: 20px;
 }
 
 
