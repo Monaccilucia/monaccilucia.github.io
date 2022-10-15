@@ -1,5 +1,5 @@
 .lila{
-    background-color: lightslategray;
+    background-color: gray;
 }
 body{
    
@@ -20,7 +20,7 @@ h2{
 h3{
       color: black; font-size: 100%; font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-p {  color: grey; font-size: 100%; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+p {  color: grey; font-size: 88%; font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .circular--square {
     border-radius: 80%;
