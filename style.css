@@ -1,5 +1,5 @@
 .lila{
-    background-color: rosybrown ;
+    background-color: black ;
 }
 body{
    
@@ -40,5 +40,12 @@ p {  color: grey; font-size: 88%; font-family:Verdana, Geneva, Tahoma, sans-seri
 a {
     color: black;
 }
+.blanco {
+    color: white !important ;
+}
+.botones {
+    color: white
+}
+
 
 
